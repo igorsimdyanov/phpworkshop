@@ -62,4 +62,4 @@
 - [Создание динамической переменной.](variables/dynamic.php)
 - [Использование функции eval().](variables/eval.php)
 - [Динамическое имя переменной.](variables/eval_var.php)
-- [](variables/cast_resource.php)
+- [cast_resource.php](variables/cast_resource.php)

@@ -42,7 +42,7 @@
 - [Границы переменной.](variables/interpolation_quotes.php)
 - [Использование обратных кавычек.](variables/back_quotes.php)
 - [Использование последовательности <<<.](variables/here.php)
-- [Использование переменных в последовательности <<<.](variables/interpolation_ here.php)
+- [Использование переменных в последовательности <<<.](variables/interpolation_here.php)
 - [Обращение к несуществующей переменной.](variables/notice.php)
 - [Использование константы null.](variables/null.php)
 - [Использование конструкции unset().](variables/unset.php)

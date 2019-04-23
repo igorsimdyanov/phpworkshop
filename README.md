@@ -85,4 +85,17 @@
 - [Создание ссылок для обычных переменных.](classes/links.php)
 - [Клонирование объекта.](classes/clone.php)
 
+## Глава 6. Константы
+[Список примеров:](constants)
+- [Создание констант.](constants/define.php)
+- [Создание констант, не зависящих от регистра.](constants/define_ci.php)
+- [Попытка переопределения константы.](constants/redefine.php)
+- [Использование функции defined().](constants/defined.php)
+- [Использование функции constant().](constants/constant.php)
+- [Константа с динамическим именем.](constants/constant_dynamic.php)
+- [Использование предопределённых констант.](constants/pre_const.php)
+- [Объявление констант в классах.](constants/constant_class.php)
+- [Проверка существования констант.](constants/constant_class_definded.php)
+
+
 

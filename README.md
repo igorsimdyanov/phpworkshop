@@ -7,7 +7,7 @@
 
 В конце глав приведены более 100 заданий для закрепления материала и освоения не вошедших в книгу разделов языка.
 
-## Глава 3
+## Глава 3. Быстрый старт
 [Список примеров:](start)
 
 - [Простейший PHP-скрипт.](start/index.php)
@@ -24,7 +24,7 @@
 - [Использование инструкции include.](start/include.php)
 - [included.php](start/included.php)
 
-## Глава 4
+## Глава 4. Переменные и типы данных
 [Список примеров:](variables)
 
 - [Зависимость переменных от регистра.](variables/case_sensitive.php)
@@ -63,3 +63,26 @@
 - [Использование функции eval().](variables/eval.php)
 - [Динамическое имя переменной.](variables/eval_var.php)
 - [cast_resource.php](variables/cast_resource.php)
+
+## Глава 5. Классы и объекты
+[Список примеров:](classes)
+- [Объявление класса.](classes/my_class.php)
+- [Класс точки Point.](classes/point.php)
+- [Попытка повторного определения класса Point.](classes/redeclare.php)
+- [Попытка повторного включения класса Point.](classes/redeclare_require.php)
+- [Удачная попытка повторного включения класса Point.](classes/redeclare_require_once.php)
+- [Создание объекта точки.](classes/point_object.php)
+- [Объект - это обычная переменная.](classes/point_var.php)
+- [Явное уничтожение объекта.](classes/point_unset.php)
+- [Попытка использование переменной класса.](classes/class_scope.php)
+- [Класс PrivatePoint.](classes/private_point.php)
+- [Попытка присваивания значений переменным объкта.](classes/private_point_use.php)
+- [Переменные объекта независимы.](classes/point_unrelated.php)
+- [Объявление статической переменной.](classes/my_static.php)
+- [Использование статических переменных.](classes/static_use.php)
+- [Оператор = с переменными.](classes/vars.php)
+- [Оператор = с объектами.](classes/objects.php)
+- [Создание ссылок для обычных переменных.](classes/links.php)
+- [Клонирование объекта.](classes/clone.php)
+
+

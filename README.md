@@ -154,3 +154,26 @@
 - [Использование оператора goto.](conditions/goto.php)
 
 
+## Глава 9. Циклы
+[Список примеров:](loops)
+- [Использование оператора while.](loops/while.php)
+- [Использование оператора while.](loops/while_false.php)
+- [Использование оператора break.](loops/while_break.php)
+- [Пример оператора continue.](loops/while_continue.php)
+- [break во вложенных циклах.](loops/break_nested_while.php)
+- [Указание номера цикла в операторе break.](loops/break_number.php)
+- [Прерывание внешнего цикла из внутреннего.](loops/break_inner.php)
+- [Условный цикл while.](loops/while_decrement.php)
+- [Декремент в while.](loops/while_post_decrement.php)
+- [Альтернативный синтаксис оператора while.](loops/while_alter.php)
+- [Использование оператора do...while.](loops/do_while.php)
+- [Использование цикла for.](loops/for.php)
+- [Использование декремента в цикле for.](loops/for_decrement.php)
+- [Альтернативное использование цикла for.](loops/for_one_line.php)
+- [Несколько переменных в блоке инициализации.](loops/for_complex.php)
+- [Использование шага равного 5.](loops/for_step_five.php)
+- [Отсутствие выражения начало и тело.](loops/for_without.php)
+- [Отсутствие выражений в цикле for.](loops/for_infinitely.php)
+- [Программа нахождения простых чисел.](loops/prime_number.php)
+- [Альтернативный синтаксис оператора for.](loops/for_alter.php)
+

@@ -4,6 +4,6 @@ $arr = [
     'second' => '2',
     'third' => '3'
 ];
-foreach ($number as $val) {
+foreach ($arr as $val) {
     echo $val; // выведет 123
 }
